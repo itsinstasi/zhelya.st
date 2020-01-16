@@ -1,0 +1,8 @@
+﻿User-agent: *
+Sitemap: https://zhelya-st.itsinsta.site/sitemap.xml
+Disallow: /main.html
+Disallow: /main
+Disallow: /stories.html
+Disallow: /stories
+Disallow: /tags
+Disallow: /tags/

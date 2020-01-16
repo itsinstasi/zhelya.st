@@ -1,0 +1,8 @@
+.breadcrumbs{
+	margin-bottom: 30px;
+	display: 14px;
+	color: var(--main-txt-color);
+}
+.breadcrumbs span,
+.breadcrumbs a{color: var(--unactive-txt-color);}
+.breadcrumbs a:hover{text-decoration: underline;}
